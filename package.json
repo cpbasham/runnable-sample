@@ -1,0 +1,21 @@
+{
+  "name": "example-code-leaguepack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boxscore.js",
+  "scripts": {
+    "start": "babel-node ./boxscore.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^1.8.0"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.1.0"
+  }
+}
