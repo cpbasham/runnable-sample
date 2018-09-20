@@ -7,5 +7,5 @@ Some boxscore URLs to provide here: https://www.basketball-reference.com/leagues
 ## Run it on the command line with NPM:
 * git clone https://github.com/cpbasham/runnable-sample.git
 * cd runnable-sample
-* npm install
+* npm install      # sorry for the fat Puppeteer install
 * npm start -- https://www.basketball-reference.com/boxscores/201806080CLE.html
